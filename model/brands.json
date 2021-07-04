@@ -1,14 +1,14 @@
 {
     "华为": {
         "bg_color": "0xFFFF2A30",
-        "svg": "ic_huawei",
+        "svg": "ic_huawei.svg",
         "parameters": "huawei",
         "have_3d": false,
         "have_more": false
     },
     "小米": {
         "bg_color": "0xFFFF6700",
-        "svg": "ic_xiaomi",
+        "svg": "ic_xiaomi.svg",
         "parameters": "xiaomi",
         "have_3d": false,
         "have_more": false
