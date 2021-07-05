@@ -15,7 +15,7 @@
         "bg_color": "0xFF121212",
         "png": "ic_iphone.png",
         "have_3d": true,
-        "have_more": false
+        "have_more": true
     },
     "其它": {
         "bg_color": "0xFF121212",
