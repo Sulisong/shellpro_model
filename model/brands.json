@@ -11,6 +11,12 @@
         "have_3d": false,
         "have_more": false
     },
+    "iPhone": {
+        "bg_color": "0xFF121212",
+        "png": "ic_iphone.png",
+        "have_3d": true,
+        "have_more": false
+    },
     "其它": {
         "bg_color": "0xFF121212",
         "png": "ic_other.png",
