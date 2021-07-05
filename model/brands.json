@@ -2,15 +2,19 @@
     "华为": {
         "bg_color": "0xFFFF2A30",
         "png": "ic_huawei.png",
-        "parameters": "huawei",
         "have_3d": false,
         "have_more": false
     },
     "小米": {
         "bg_color": "0xFFFF6700",
         "png": "ic_xiaomi.png",
-        "parameters": "xiaomi",
         "have_3d": false,
         "have_more": false
+    },
+    "其它": {
+        "bg_color": "0xFF121212",
+        "png": "ic_other.png",
+        "have_3d": true,
+        "have_more": true
     }
 }
