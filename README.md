@@ -11,7 +11,7 @@
 "小米": {
     "bg_color": "0xFFFF6700",// 卡片背景
     "png": "ic_xiaomi.png",// 标头图片名称，图片位置：/png
-    "home": "xiaomi",// 模块仓库（仓库路径使用英文），例如：/model/xiaomi/
+    "home": "xiaomi",// 模块仓库（仓库路径使用英文小写），例如：/model/xiaomi/
     "have_3d": true,// 是否包含3D模块
     "have_more": false// 是否包含多模板模块
 }
@@ -31,7 +31,7 @@
 * /png/ 标头图片等目录
 ---
 **上传模块流程**
-推荐使用VSCode 克隆项目，本地操作上传
+推荐使用VSCode 克隆项目，本地操作上传（或者直接网页克隆项目，完成以下步骤请求拉取即可）
 * 在/model/brands.json 添加机型分类，已存在则跳过
 * 在模块仓库dl.json 添加模块参数
 * 在模块仓库/zip/上传模块zip
