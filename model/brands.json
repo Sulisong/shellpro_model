@@ -2,24 +2,28 @@
     "小米": {
         "bg_color": "0xFFFF6700",
         "png": "ic_xiaomi.png",
+        "home": "xiaomi",
         "have_3d": true,
         "have_more": false
     },
     "Google": {
         "bg_color": "0xFFFF2A30",
         "png": "ic_google.png",
+        "home": "google",
         "have_3d": true,
         "have_more": false
     },
     "iPhone": {
         "bg_color": "0xFF121212",
         "png": "ic_iphone.png",
+        "home": "iphone",
         "have_3d": true,
         "have_more": true
     },
     "其它": {
         "bg_color": "0xFF121212",
         "png": "ic_other.png",
+        "home": "other",
         "have_3d": true,
         "have_more": true
     }
