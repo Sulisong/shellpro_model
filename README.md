@@ -29,3 +29,7 @@
 * /model/***/zip/ 存放模块zip压缩包路径，格式为dl.json‘添加的名称.zip’
 * /model/***/preview/ 模块预览图，推荐分辨率大小120，名称格式为dl.json‘添加的名称.jpg’
 * /png/ 标头图片等目录
+---
+**上传模块流程**
+推荐使用VSCode 克隆项目，本地操作上传
+* ！、/model/brands.json 添加机型分类，已存在则跳过
