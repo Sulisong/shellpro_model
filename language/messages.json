@@ -9,18 +9,26 @@
         "using": "使用",
         "u_template": "正在使用模板",
         "model": "机型",
-        "o_d_templat": "在线下载模板"
+        "o_d_templat": "在线下载模板",
+        "h_made": "自制",
+        "i_template": "导入外部模板",
+        "shared": "共享",
+        "s_template": "用户共享模板"
     },
     "en_US": {
         "o_mode": "Operating mode",
         "f_shell": "Flat Shell",
         "v_shell": "Video Shell",
-        "s_shell": "Shado Shell",
+        "s_shell": "Shadow Shell",
         "t_shell": "3D Template Shell",
         "m_shell": "Multi Template Shell",
         "using": "Using",
         "u_template": "Template in use",
         "model": "Model",
-        "o_d_templat": "Online Download"
+        "o_d_templat": "Online Download",
+        "h_made": "Homemade",
+        "i_template": "Import template",
+        "shared": "Shared",
+        "s_template": "Sharing Template"
     }
 }
