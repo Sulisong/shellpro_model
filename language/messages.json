@@ -8,7 +8,8 @@
         "v_shell": "视频带壳",
         "s_shell": "阴影带壳",
         "t_shell": "3D带壳",
-        "m_shell": "多模板带壳"
+        "m_shell": "多模板带壳",
+        "template": "模板"
     },
     "en_US": {
         "shellpro": "ShellPro",
@@ -18,7 +19,8 @@
         "f_shell": "Flat Shell",
         "v_shell": "Video Shell",
         "s_shell": "Shado Shell",
-        "t_shell": "3D Shell",
-        "m_shell": "Multi Template Shell"
+        "t_shell": "3D Template Shell",
+        "m_shell": "Multi Template Shell",
+        "template": "Template"
     }
 }
