@@ -4,23 +4,31 @@
         "settings": "设置",
         "b_settings": "基础设置",
         "language": "语言",
+        "o_mode": "操作模式",
         "f_shell": "平面带壳",
         "v_shell": "视频带壳",
         "s_shell": "阴影带壳",
         "t_shell": "3D带壳",
         "m_shell": "多模板带壳",
-        "template": "模板"
+        "template": "模板",
+        "u_template": "正在使用模板",
+        "model": "机型",
+        "o_d_templat": "在线下载模板"
     },
     "en_US": {
         "shellpro": "ShellPro",
         "settings": "Settings",
         "b_settings": "Basic Settings",
         "language": "Language",
+        "o_mode": "Operating mode",
         "f_shell": "Flat Shell",
         "v_shell": "Video Shell",
         "s_shell": "Shado Shell",
         "t_shell": "3D Template Shell",
         "m_shell": "Multi Template Shell",
-        "template": "Template"
+        "template": "Template",
+        "u_template": "Template in use",
+        "model": "Model",
+        "o_d_templat": "Online Download"
     }
 }
