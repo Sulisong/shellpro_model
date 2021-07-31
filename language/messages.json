@@ -1,0 +1,24 @@
+{
+    "zh_CN": {
+        "shellpro": "带壳截图Pro",
+        "settings": "设置",
+        "b_settings": "基础设置",
+        "language": "语言",
+        "f_shell": "平面带壳",
+        "v_shell": "视频带壳",
+        "s_shell": "阴影带壳",
+        "t_shell": "3D带壳",
+        "m_shell": "多模板带壳"
+    },
+    "en_US": {
+        "shellpro": "ShellPro",
+        "settings": "Settings",
+        "b_settings": "Basic Settings",
+        "language": "Language",
+        "f_shell": "Flat Shell",
+        "v_shell": "Video Shell",
+        "s_shell": "Shado Shell",
+        "t_shell": "3D Shell",
+        "m_shell": "Multi Template Shell"
+    }
+}
