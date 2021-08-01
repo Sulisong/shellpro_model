@@ -1,11 +1,20 @@
 {
     "zh_CN": {
+        "zh_CN": "中文简体",
+        "shellpro": "带壳截图Pro",
+        "copyright": "COPYRIGHT  ©苏李宋",
+        "settings": "设置",
+        "b_settings": "基础设置",
+        "language": "语言",
         "o_mode": "操作模式",
         "f_shell": "平面带壳",
         "v_shell": "视频带壳",
         "s_shell": "阴影带壳",
-        "t_shell": "3D带壳",
+        "t_shell": "3D模板带壳",
         "m_shell": "多模板带壳",
+        "u_language": "更新与切换语言",
+        "d_language_error": "下载语言列表错误",
+        "f_system": "跟随系统",
         "using": "使用",
         "u_template": "正在使用模板",
         "model": "机型",
@@ -16,12 +25,20 @@
         "s_template": "用户共享模板"
     },
     "en_US": {
+        "shellpro": "ShellPro",
+        "copyright": "COPYRIGHT  ©SULISONG",
+        "settings": "Settings",
+        "b_settings": "Basic Settings",
+        "language": "Language",
         "o_mode": "Operating mode",
         "f_shell": "Flat Shell",
         "v_shell": "Video Shell",
         "s_shell": "Shadow Shell",
         "t_shell": "3D Template Shell",
         "m_shell": "Multi Template Shell",
+        "u_language": "Update and switching language",
+        "d_language_error": "Download language list error",
+        "f_system": "Follow system",
         "using": "Using",
         "u_template": "Template in use",
         "model": "Model",
@@ -30,5 +47,6 @@
         "i_template": "Import template",
         "shared": "Shared",
         "s_template": "Sharing Template"
-    }
+    },
+    "af": {}
 }
