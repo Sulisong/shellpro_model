@@ -36,7 +36,8 @@
         "t_template_n": "三星 S20（默认）",
         "m_template_n": "三星 S8（默认）",
         "tips": "温馨提示",
-        "tips_c_s": "成功复制至剪切板",
+        "u_mistake": "未知错误",
+        "tips_c_s": "成功复制至剪切板"
     },
     "en_US": {
         "shellpro": "ShellPro",
@@ -73,6 +74,7 @@
         "t_template_n": "Samsung S20 (Default)",
         "m_template_n": "Samsung S8 (Default)",
         "tips": "Tips",
-        "tips_c_s": "Successfully copied to the shearing board",
+        "u_mistake": "Unknown mistake",
+        "tips_c_s": "Successfully copied to the shearing board"
     }
 }
