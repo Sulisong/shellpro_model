@@ -1,6 +1,7 @@
 {
     "zh_CN": {
         "zh_CN": "中文简体",
+        "en_US": "English US",
         "shellpro": "带壳截图Pro",
         "copyright": "COPYRIGHT  ©苏李宋",
         "settings": "设置",
@@ -47,6 +48,5 @@
         "i_template": "Import template",
         "shared": "Shared",
         "s_template": "Sharing Template"
-    },
-    "af": {}
+    }
 }
