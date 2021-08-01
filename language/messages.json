@@ -37,7 +37,10 @@
         "m_template_n": "三星 S8（默认）",
         "tips": "温馨提示",
         "u_mistake": "未知错误",
-        "tips_c_s": "成功复制至剪切板"
+        "tips_c_s": "成功复制至剪切板",
+        "tips_n_o": "立即开通",
+        "tips_o_v": "仅支持VIP会员使用",
+        "tips_l_s": "需等待当前任务处理完成"
     },
     "en_US": {
         "shellpro": "ShellPro",
@@ -75,6 +78,9 @@
         "m_template_n": "Samsung S8 (Default)",
         "tips": "Tips",
         "u_mistake": "Unknown mistake",
-        "tips_c_s": "Successfully copied to the shearing board"
+        "tips_c_s": "Successfully copied to the shearing board",
+        "tips_n_o": "Now Pay",
+        "tips_o_v": "Support for VIP members only",
+        "tips_l_s": "Need to wait for the current task processing"
     }
 }
