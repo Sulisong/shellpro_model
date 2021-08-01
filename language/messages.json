@@ -23,7 +23,12 @@
         "h_made": "自制",
         "i_template": "导入外部模板",
         "shared": "共享",
-        "s_template": "用户共享模板"
+        "s_template": "用户共享模板",
+        "a_shadow": "图片添加阴影",
+        "f_template_n": "小米10 Pro（默认）",
+        "v_template_n": "小米10 Pro（默认）",
+        "t_template_n": "三星 S20（默认）",
+        "m_template_n": "三星 S8（默认）"
     },
     "en_US": {
         "shellpro": "ShellPro",
@@ -47,6 +52,11 @@
         "h_made": "Homemade",
         "i_template": "Import template",
         "shared": "Shared",
-        "s_template": "Sharing Template"
+        "s_template": "Sharing Template",
+        "a_shadow": "Image Add Shadow",
+        "f_template_n": "Xiaomi 10 Pro (Default)",
+        "v_template_n": "Xiaomi 10 Pro (Default)",
+        "t_template_n": "Samsung S20 (Default)",
+        "m_template_n": "Samsung S8 (Default)"
     }
 }
