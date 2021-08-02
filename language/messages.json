@@ -26,7 +26,7 @@
         "model": "Model",
         "o_d_templat": "Online Download",
         "h_made": "Homemade",
-        "i_template": "Import template",
+        "i_template": "Import Template",
         "shared": "Shared",
         "s_template": "Sharing Template",
         "a_shadow": "Image Add Shadow",
@@ -62,6 +62,7 @@
         "width": "Width：",
         "height": "Height：",
         "coordinate": "Coordinate",
+        "download": "Download",
         "tips": "Tips",
         "u_mistake": "Unknown mistake",
         "tips_c_s": "Successfully copied to the shearing board",
@@ -82,6 +83,19 @@
         "return": "Return",
         "submit": "Submit",
         "about": "About",
-        "picture": "Picture"
+        "picture": "Picture",
+        "华为": "Huawei",
+        "小米": "Xiaomi",
+        "魅族": "Meizu",
+        "三星": "Samsung",
+        "一加": "Oneplus",
+        "努比亚": "Nubia",
+        "华硕": "Asus",
+        "坚果": "Smartisan",
+        "诺基亚": "Nokia",
+        "联想": "Lenovo",
+        "黑莓": "Blackberry",
+        "索尼": "Sony",
+        "其它": "Other"
     }
 }
