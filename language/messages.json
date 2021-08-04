@@ -247,6 +247,8 @@
         "黑莓": "Blackberry",
         "索尼": "Sony",
         "其它": "Other",
-        "手持模板": "Handheld"
+        "手持模板": "Handheld",
+        "当前是最新版本": "Currently the latest version",
+        "基本": "Primary"
     }
 }
