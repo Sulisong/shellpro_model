@@ -194,7 +194,7 @@
         "tj": "Generation failed, please check if the template data is correct",
         "tt": "This template needs to choose % pictures at the same time.",
         "取消": "Cancel",
-        "颜色板": "Color plate",
+        "颜色板": "Color Plate",
         "选择色调": "Select Hue",
         "立即下载": "Download",
         "新版本": "New Version",
@@ -249,6 +249,7 @@
         "其它": "Other",
         "手持模板": "Handheld",
         "当前是最新版本": "Currently the latest version",
-        "基本": "Primary"
+        "基本": "Primary",
+        "不透明度": "Opacity"
     }
 }
