@@ -20,18 +20,18 @@
         "have_3d": true,
         "have_more": true
     },
+    "手持": {
+        "bg_color": "0xFFFF2A30",
+        "png": "ic_shouchi.png",
+        "home": "shouchi",
+        "have_3d": true,
+        "have_more": false
+    },
     "其它": {
         "bg_color": "0xFF121212",
         "png": "ic_other.png",
         "home": "other",
         "have_3d": true,
         "have_more": true
-    },
-    "手持": {
-    "bg_color": "0xFFFF2A30",
-    "png": "ic_shouchi.png",
-    "home": "shouchi",
-    "have_3d": true,
-    "have_more": false
     }
 }
