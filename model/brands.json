@@ -21,7 +21,7 @@
         "have_more": true
     },
     "手持": {
-        "bg_color": "0xFFFF2A30",
+        "bg_color": "0xFFFFC65F",
         "png": "ic_shouchi.png",
         "home": "shouchi",
         "have_3d": true,
