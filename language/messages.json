@@ -245,7 +245,8 @@
         "手持模板": "手持模板",
         "当前是最新版本": "目前是最新版本",
         "基本": "基本",
-        "不透明度": "不透明度"
+        "不透明度": "不透明度",
+        "谷歌付款服务": "谷歌付款服務"
     },
     "en_US": {
         "sp": "ShellPro",
@@ -493,6 +494,7 @@
         "手持模板": "Handheld",
         "当前是最新版本": "Currently the latest version",
         "基本": "Primary",
-        "不透明度": "Opacity"
+        "不透明度": "Opacity",
+        "谷歌付款服务": "Google Payment Service"
     }
 }
