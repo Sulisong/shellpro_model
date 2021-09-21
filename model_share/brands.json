@@ -26,14 +26,14 @@
         "home": "oppo",
         "have_3d": false,
         "have_more": false
-    }
+    },
     "真我": {
         "bg_color": "0xFFFFC916",
         "png": "ic_realme.png",
         "home": "realme",
         "have_3d": true,
         "have_more": false
-    }
+    },
     "手持": {
         "bg_color": "0xFFFFC65F",
         "png": "ic_shouchi.png",
